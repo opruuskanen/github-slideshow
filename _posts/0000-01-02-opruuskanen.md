@@ -2,5 +2,5 @@
 layout: slide
 title: "Tervetuloa toiseen diaan!"
 ----
-Heipparallaa
+Muutin tämän
 Use the left arrow to go back!
